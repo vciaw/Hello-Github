@@ -1,4 +1,4 @@
-## Welcome to vciaw's GitHub Pages:blush:
+## Welcome to vciaw's GitHub Pages
  
 
 ### 1.初识
