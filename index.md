@@ -27,8 +27,7 @@
  <br>
  <br>
  <br>
- * * *
  我进github是想学习php和一些前端的，我虽然只是个初学者，但我会加倍努力去学。如果有和我一样处境的朋友我们可以聊聊：<br> 
- email:www.624927563@qq.com<br>
- wechat:<br>
- ![4](http://m.qpic.cn/psb?/V13vQHVN3DxOMP/5T3mlgL1tOoXm.DBeO1yhC9uPbVn9J50OKZz7LKt11o!/b/dD8BAAAAAAAA&bo=rgGuAQAAAAARBzA!&rf=viewer_4)<br>
+ Email:www.624927563@qq.com<br>
+ Wechat:<br>
+ ![](http://m.qpic.cn/psb?/V13vQHVN3DxOMP/5T3mlgL1tOoXm.DBeO1yhC9uPbVn9J50OKZz7LKt11o!/b/dD8BAAAAAAAA&bo=rgGuAQAAAAARBzA!&rf=viewer_4)
