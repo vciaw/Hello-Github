@@ -1,4 +1,4 @@
-## Welcome to vciaw's GitHub Pages
+## Welcome to vciaw's GitHub Pages:blush:
  
 
 ### 1.初识
@@ -10,10 +10,14 @@
 * * *
 ### 2.态度转变
 以前对github的看法是很烦杂，很多东西。但后来得知github上的不全是关于IT方面的东西，github就是大家共有的一个虚拟工作室，全世界不同地方的人可以为着同一件事而奋斗。特别是编写一个稍大一点的程序项目显然一个人的时间精力和知识储备是可能不够的，几个人一起干才能更加便捷。<br>
-还有一件事，github上很多话题都是英文的，对于很多国人想入门还是有点难度的，正如我，写着写着还要时不时打开翻译，但你真的把它当成宝贝之后再大的困难也愿意去面对（最近在狂补英语，希望能在大三前拿下六级）<br>
+还有一件事，github上很多话题都是英文的，对于很多国人想入门还是有点难度的，正如我，写着写着还要时不时打开翻译，但你真的把它当成宝贝之后再大的困难也愿意去面对（最近在狂补英语，希望能在大三前拿下六级）<br>:blush:
 * * *
 ### 3.一些小问题
  这些问题作为一个刚入门的小白我是不明白的：<br>
- 1. github是支持emoji的,但我在写这篇文章时就遇到了关于emoji的问题
+ 1. github是支持emoji的<br>
+ ![emoji](http://m.qpic.cn/psb?/V13vQHVN3DxOMP/t3jdn2A53nlMKszIsAgiuoKEK2cmTPaH5nGO9CmZNtg!/b/dPMAAAAAAAAA&bo=0wIxAQAAAAADB8M!&rf=viewer_4)<br>
  
- ![123](http://m.qpic.cn/psb?/V13vQHVN3DxOMP/5T3mlgL1tOoXm.DBeO1yhC9uPbVn9J50OKZz7LKt11o!/b/dD8BAAAAAAAA&bo=rgGuAQAAAAARBzA!&rf=viewer_4)
+ 但我在写这篇文章时就遇到了关于emoji的问题<br>
+ 
+ 
+ ![](http://m.qpic.cn/psb?/V13vQHVN3DxOMP/5T3mlgL1tOoXm.DBeO1yhC9uPbVn9J50OKZz7LKt11o!/b/dD8BAAAAAAAA&bo=rgGuAQAAAAARBzA!&rf=viewer_4)
