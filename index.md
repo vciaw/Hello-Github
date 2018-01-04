@@ -14,4 +14,6 @@
 * * *
 ### 3.一些小问题
  这些问题作为一个刚入门的小白我是不明白的：<br>
- 1. github是支持emoji编辑的
+ 1. github是支持emoji的,但我在写这篇文章时就遇到了关于emoji的问题
+ 
+ ![123](http://m.qpic.cn/psb?/V13vQHVN3DxOMP/5T3mlgL1tOoXm.DBeO1yhC9uPbVn9J50OKZz7LKt11o!/b/dD8BAAAAAAAA&bo=rgGuAQAAAAARBzA!&rf=viewer_4)
