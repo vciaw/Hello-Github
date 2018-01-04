@@ -13,7 +13,7 @@
 还有一件事，github上很多话题都是英文的，对于很多国人想入门还是有点难度的，正如我，写着写着还要时不时打开翻译，但你真的把它当成宝贝之后再大的困难也愿意去面对（最近在狂补英语，希望能在大三前拿下六级）<br>:blush:
 * * *
 ### 3.一些小问题
- #### 这些问题作为一个刚入门的小白我是不明白的：<br>
+#### 这些问题作为一个刚入门的小白我是不明白的：<br>
   （1)github的markdown是支持emoji编辑的<br>
  ![emoji](http://m.qpic.cn/psb?/V13vQHVN3DxOMP/t3jdn2A53nlMKszIsAgiuoKEK2cmTPaH5nGO9CmZNtg!/b/dPMAAAAAAAAA&bo=0wIxAQAAAAADB8M!&rf=viewer_4)<br>
  但我在写这篇文章时就遇到了关于emoji的问题,在编辑好后在视图页面中emoji是可以显示的，下划线也可以：<br>
